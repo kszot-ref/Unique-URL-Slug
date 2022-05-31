@@ -1797,14 +1797,14 @@ input[type=checkbox]:disabled{
   font-family:kentico-icons;
   font-size:12px;
   color:#ff9800;
-  content:"\E6AC";
+  content:"\231B";
 }
 .item-status--is-ready{
   color:#4caf50;
 }
 .item-status--is-ready:before{
   color:#4caf50;
-  content:"\E6AC";
+  content:"\231B";
 }
 .item-status--is-all-done:before{
   color:#bdbdbd;
@@ -1826,7 +1826,7 @@ input[type=checkbox]:disabled{
 }
 .item-status--is-missing:before{
   color:#2196f3;
-  content:"\E6AC";
+  content:"\231B";
 }
 .multi-select__search-field{
   padding-top:4px;
