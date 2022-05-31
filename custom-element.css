@@ -1808,14 +1808,14 @@ input[type=checkbox]:disabled{
 }
 .item-status--is-all-done:before{
   color:#bdbdbd;
-  content:"\E675";
+  content:"\2713";
 }
 .item-status--is-successful{
   color:#4caf50;
 }
 .item-status--is-successful:before{
   color:#4caf50;
-  content:"\E675";
+  content:"\2713";
 }
 .item-status--failed{
   color:#ef5350;
