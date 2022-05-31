@@ -333,19 +333,19 @@ p+.form__group{
   content:"\E618";
 }
 .icon-error:before{
-  content:"\E60D";
+  content:"\2297";
 }
 .icon-in-progress:before{
   content:"\E61A";
 }
 .icon-success:before{
-  content:"\E675";
+  content:"\2713";
 }
 .icon-warning:before{
   content:"\E693";
 }
 .icon-is-available:before,.icon-resolved:before{
-  content:"\E675";
+  content:"\2713";
 }
 .icon-add:before,.icon-assign:before,.icon-create:before{
   content:"\E62F";
@@ -376,7 +376,7 @@ p+.form__group{
   content:"\E6DD";
 }
 .icon-autogenerate:before{
-  content:"\E622";
+  content:"\27F3";
 }
 .icon-insert-image:before{
   content:"\E633";
@@ -466,7 +466,7 @@ p+.form__group{
   content:"\E66F";
 }
 .icon-clear-filter:before{
-  content:"\E60D";
+  content:"\2297";
 }
 .icon-mask-password:before{
   content:"\E75C";
@@ -1822,7 +1822,7 @@ input[type=checkbox]:disabled{
 }
 .item-status--failed:before{
   color:#ef5350;
-  content:"\E60D";
+  content:"\2297";
 }
 .item-status--is-missing:before{
   color:#2196f3;
