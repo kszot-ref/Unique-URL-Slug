@@ -122,7 +122,7 @@ function isUnique(text) {
   $('#unique-status').text("checking");
 
   // HERE comes your own server proxy sevice that forwards JSON from Preview API based on "/items?elements.<codename>[contains]=<value>&depth=0" query
-  var urlUnique = `${repeater}?item-codename=${itemCodename}&item-id=${itemid}&codename=${codename}&value=${text}`;
+  var urlUnique = `${repeater}?item-codename=${itemCodename}&item-id=${itemid}&field-codename=${codename}&value=${text}`;
   $.ajax({
     url: urlUnique,
     dataType: 'text',
